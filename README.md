@@ -1,5 +1,5 @@
 # 💫 About Me:
-Start: 08/24<br><br>Follow me on my journey to working @apple ! <br>Now learning Python...<br>
+Start: 08/24<br><br>Follow me on my journey to working @apple ! <br>Now learning Python...<br> <br>Blog: techymatt.blogspot.com<br>
 
 
 ## 🌐 Socials:
